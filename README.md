@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DaanChoi&fontSize=90&animation=twinkling)
 
-<div align=center&font-weight=bold>:v: Introduction</div>
+<b align=center>:v: Introduction</b>
 
 <div align=center>:pushpin: Me</div>
 
