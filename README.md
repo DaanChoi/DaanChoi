@@ -1,4 +1,9 @@
-### Hi there 👋
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
+###Me
+###Tech Stack
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **DaanChoi/DaanChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
