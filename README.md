@@ -2,16 +2,16 @@
 
 <h3 align=center>
   :v: <b>Introduction</b>
-</h3></br>
-<div>
+</h3>
+<div align=center>
   안녕하세요! 현재 대학생이며, 웹 개발 공부 중입니다.</br>
   풀스택에 관심을 갖고 있는 예비 백엔드 개발자입니다.
 </div></br>
 
 <h3 align=center>
-  :pushpin: <b>Me</b></br>
-</h3></br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaanChoi&count_bg=%23878787&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=today+%2F+total&edge_flat=false"/></a></br>
+  :pushpin: <b>Me</b>
+</h3>
+<a align=center href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaanChoi&count_bg=%23878787&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=today+%2F+total&edge_flat=false"/></a></br>
 
 <div align=center>:computer: <b>Tech Stack</b></div>
 
