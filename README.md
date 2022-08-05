@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DaanChoi&fontSize=90&animation=twinkling)
 
-<div align=center>:v: <b>Introduction</b></div>
+<div align=center>
+  :v: <b>Introduction</b></br></br>
+  안녕하세요! 현재 대학생이며, 웹 개발 공부 중입니다.</br>
+  풀스택에 관심을 갖고 있는 예비 백엔드 개발자입니다.
+</div>
 
-<div align=center>:pushpin: Me</div>
+<div align=center>:pushpin: <b>Me</b></div>
 
-<div align=center>:computer: Tech Stack</div>
+<div align=center>:computer: <b>Tech Stack</b></div>
 
 <!-- ### Hi there 👋 -->
 
