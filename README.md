@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${DaanChoi}&fontSize=${50}&animation=${twinkling})
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DaanChoi&fontSize=50&animation=twinkling)
 
-### Me
+#### Me
 
-### Tech Stack
+#### Tech Stack
 
 <!-- ### Hi there 👋 -->
 
