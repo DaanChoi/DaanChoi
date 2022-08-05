@@ -1,12 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DaanChoi&fontSize=90&animation=twinkling)
 
 <div align=center>
-  :v: <b>Introduction</b></br></br>
+  :v: <b>Introduction</b></br>
   안녕하세요! 현재 대학생이며, 웹 개발 공부 중입니다.</br>
   풀스택에 관심을 갖고 있는 예비 백엔드 개발자입니다.
 </div>
 
-<div align=center>:pushpin: <b>Me</b></div>
+<div align=center>
+  :pushpin: <b>Me</b>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaanChoi&count_bg=%23878787&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=today / total&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 
 <div align=center>:computer: <b>Tech Stack</b></div>
 
