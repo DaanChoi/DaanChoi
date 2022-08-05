@@ -1,7 +1,8 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${DaanChoi}&fontSize=${50}&animation=${twinkling})
 
-###Me
-###Tech Stack
+### Me
+
+### Tech Stack
 
 <!-- ### Hi there 👋 -->
 
@@ -18,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ref) https://yoon990.tistory.com/38
 -->
