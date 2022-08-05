@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DaanChoi&fontSize=90&animation=twinkling)
 
-#### :pushpin: Me
+<div align=center>:v: Introduction</div>
 
-#### :computer: Tech Stack
+<div align=center>:pushpin: Me</div>
+
+<div align=center>:computer: Tech Stack</div>
 
 <!-- ### Hi there 👋 -->
 
