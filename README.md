@@ -8,8 +8,8 @@
 
 <div align=center>
   :pushpin: <b>Me</b>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaanChoi&count_bg=%23878787&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=today / total&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaanChoi&count_bg=%23878787&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=today / total&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align=center>:computer: <b>Tech Stack</b></div>
 
