@@ -38,7 +38,7 @@
 </div>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=DaanChoi)](https://solved.ac/DaanChoi)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ekdksdl11)](https://solved.ac/ekdksdl11)
 
 <!-- ### Hi there 👋 -->
 
