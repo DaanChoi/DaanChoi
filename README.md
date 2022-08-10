@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DaanChoi&fontSize=100&animation=twinkling)
-
+<div align=center>
 <h3 align=center>
   :v: <b>Introduction</b>
 </h3>
@@ -41,7 +41,6 @@
   :muscle: <b>Problem Solving</b>
 </h3>
 
-<div align=center>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ekdksdl11)](https://solved.ac/ekdksdl11)
 </div>
 
