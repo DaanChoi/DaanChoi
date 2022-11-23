@@ -4,8 +4,7 @@
   :v: <b>Introduction</b>
 </h3>
 <div align=center>
-  안녕하세요! 웹 개발 공부 중입니다.</br>
-  풀스택에 관심을 갖고 있는 대학생입니다.
+  안녕하세요!
 </div></br>
 
 <h3 align=center>
