@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JAVA-informational">
 </div></br>
-
+<!--
 <h3 align=center>
   :computer: <b>Tech Stack</b>
 </h3>
@@ -35,14 +35,14 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 </div></br>
-
+-->
 <h3 align=center>
   :muscle: <b>Problem Solving</b>
 </h3>
-<!--
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ekdksdl11)](https://solved.ac/ekdksdl11)
 </div>
--->
+
 
 <!-- ### Hi there 👋 -->
 
