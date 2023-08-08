@@ -1,15 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DaanChoi&fontSize=100&animation=twinkling)
 <div align=center>
 <h3 align=center>
-  :v: <b>Introduction</b>
+  👋 <b>Introduction</b>
 </h3>
 <div align=center>
-  안녕하세요!
-</div></br>
+  <h4>
+  BS Student(Software Engineering) </br>
+  </h4>
+</div>
 
+<div align=center>
 <h3 align=center>
-  :pushpin: <b>Me</b>
-</h3>
+  📌<b>Interest</b> </h3>
+  <h4>  
+  Machine Learning </br>
+  Recommender System
+  </h4></div>
+<!--
+</br>
 <div align=center>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaanChoi&count_bg=%23878787&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=today+%2F+total&edge_flat=false"/></a></br>
   <a href="https://www.instagram.com/ekdksdl_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -25,6 +33,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JAVA-informational">
 </div></br>
+-->
 <!--
 <h3 align=center>
   :computer: <b>Tech Stack</b>
