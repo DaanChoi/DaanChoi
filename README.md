@@ -13,8 +13,7 @@
 <h3 align=center>
   📌<b>Interest</b> </h3>
   <h4>  
-  Machine Learning </br>
-  Recommender System
+  Data, Machine Learning, AI </br>
   </h4></div>
 <!--
 </br>
