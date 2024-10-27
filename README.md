@@ -5,7 +5,7 @@
 </h3>
 <div align=center>
   <h4>
-  BS Student(Software Engineering) </br>
+  AI Enthusiast </br>
   </h4>
 </div>
 
